@@ -1,0 +1,17 @@
+1	Intel® HD Graphics	4200	0xA1E	1	A
+3	Intel® HD Graphics	4400	0xA16	3	B
+4	Intel® HD Graphics	5300	0x161E	1	A
+5	Intel® HD Graphics	5500	0x1616	5	C
+6	Intel® Iris™ Graphics	5100	0xA2E	5	C
+7	Intel® Iris™ Pro Graphics	5200	0xD26	7	D
+8	Intel® HD Graphics	5000	0xA26	3	B
+9	Intel® HD Graphics	4600	0xD16	5	C
+10	Intel® Iris™ Graphics	6100	0x162B	7	D
+11	Intel® HD Graphics	6000	0x1626	5	C
+12	Intel® HD Graphics	4600	0x416	5	C
+13	Intel® HD Graphics	4600	0x412	5	C
+14	Intel® HD Graphics	4600	0xD12	5	C
+15	Intel® HD Graphics	4400	0x41E	3	B
+16	Intel® Iris™ Pro Graphics	5200	0xD22	7	D
+17	Intel® Iris™ Pro Graphics	6200	0x1622	7	D
+18	Intel® HD Graphics	5600	0x1612	5	C
